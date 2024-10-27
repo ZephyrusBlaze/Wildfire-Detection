@@ -69,7 +69,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TheStrange-007/Wildfire-Detection
+   git clone https://github.com/ZephyrusBlaze/Wildfire-Detection
    cd Wildfire-Detection
    ```
 
